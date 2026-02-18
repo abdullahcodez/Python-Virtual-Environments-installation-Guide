@@ -1,0 +1,10 @@
+# Core (example)
+requests==2.31.0
+
+# AI / Data Science (optional)
+# numpy
+# pandas
+# scikit-learn
+# torch
+# tensorflow
+# transformers\n
