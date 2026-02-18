@@ -1,4 +1,4 @@
-# ⚡ UV — Modern Python Package Manager (README)
+# ⚡ UV — Modern Python Package Manager
 
 > **A fast, reliable replacement for pip — built for modern Python projects.**
 
